@@ -1,7 +1,10 @@
 # FAQ
 
 ## What is color-converter?
-Color format converter (HEX/RGB/HSL)
+A CLI tool for color converter.
 
 ## Dependencies?
 Python stdlib only.
+
+## Author
+Jose Zuma
