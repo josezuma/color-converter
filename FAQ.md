@@ -1,7 +1,7 @@
 # FAQ
 
 ## What is color-converter?
-A CLI tool for color converter.
+Color Converter
 
 ## Dependencies?
 Python stdlib only.
